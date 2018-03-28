@@ -22,6 +22,7 @@ Homework Description:
 The implementation for this HW is divided into two parts:
 1. MIPS simulator without Pipelining.
 2. MIPS simulator with 3-stage Pipelining and Data Forwarding.
+
 Please refer to "homework description.pdf" for more details.
 
 How to compile and run in Linux:
